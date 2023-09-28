@@ -79,4 +79,4 @@ while running:
 
     handle_events()
 
-pico2d.close_canvas()
+close_canvas()
